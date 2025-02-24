@@ -2,5 +2,5 @@
 
 ## just run this command:
 ```
-wget https:// && sudo ./surprise
+wget https://github.com/StrikcYT/Linux-Surprise/raw/refs/heads/main/surprise && sudo ./surprise
 ```
